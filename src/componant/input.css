@@ -1,0 +1,21 @@
+.input{
+                
+    width:95%;
+   height:50px;
+   background-color:white;
+   border-radius: 50px;
+   padding-left:0.5rem;
+   display: flex;
+   align-items: center;
+   .searchterm{
+    width:90%;
+    border:none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    background-color:white;
+  
+ } 
+
+}
